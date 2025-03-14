@@ -1,0 +1,84 @@
+[
+    {
+        "breeds": [],
+        "categories": [
+            {
+                "id": 4,
+                "name": "sunglasses"
+            }
+        ],
+        "id": "au",
+        "url": "https://cdn2.thecatapi.com/images/au.jpg",
+        "width": 500,
+        "height": 375
+    },
+    {
+        "breeds": [],
+        "id": "4a6",
+        "url": "https://cdn2.thecatapi.com/images/4a6.gif",
+        "width": 500,
+        "height": 281
+    },
+    {
+        "breeds": [],
+        "categories": [
+            {
+                "id": 15,
+                "name": "clothes"
+            }
+        ],
+        "id": "8vm",
+        "url": "https://cdn2.thecatapi.com/images/8vm.jpg",
+        "width": 400,
+        "height": 266
+    },
+    {
+        "breeds": [],
+        "id": "a1t",
+        "url": "https://cdn2.thecatapi.com/images/a1t.jpg",
+        "width": 720,
+        "height": 538
+    },
+    {
+        "breeds": [],
+        "id": "a3n",
+        "url": "https://cdn2.thecatapi.com/images/a3n.jpg",
+        "width": 1000,
+        "height": 666
+    },
+    {
+        "breeds": [],
+        "id": "alj",
+        "url": "https://cdn2.thecatapi.com/images/alj.jpg",
+        "width": 450,
+        "height": 300
+    },
+    {
+        "breeds": [],
+        "id": "b6m",
+        "url": "https://cdn2.thecatapi.com/images/b6m.jpg",
+        "width": 479,
+        "height": 720
+    },
+    {
+        "breeds": [],
+        "id": "c7h",
+        "url": "https://cdn2.thecatapi.com/images/c7h.jpg",
+        "width": 820,
+        "height": 883
+    },
+    {
+        "breeds": [],
+        "id": "cgg",
+        "url": "https://cdn2.thecatapi.com/images/cgg.jpg",
+        "width": 560,
+        "height": 428
+    },
+    {
+        "breeds": [],
+        "id": "MTg5MjQ2MQ",
+        "url": "https://cdn2.thecatapi.com/images/MTg5MjQ2MQ.jpg",
+        "width": 500,
+        "height": 444
+    }
+]
